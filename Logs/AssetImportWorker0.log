@@ -1,0 +1,914 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1766; Version 2009; 64bit' Language: 'en' Physical Memory: 16293 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/JakeM/OneDrive/Documents/ET Extra Terrible
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55799
+Successfully changed project path to: C:/Users/JakeM/OneDrive/Documents/ET Extra Terrible
+C:/Users/JakeM/OneDrive/Documents/ET Extra Terrible
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/JakeM/OneDrive/Documents/ET Extra Terrible/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56712
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003340 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001113 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1820 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.097300 ms (FindLiveObjects: 0.202800 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.734800 ms  DeleteObjects: 0.110400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/GunSheets
+  artifactKey: Guid(9b830af20cc02ce40b456807851d9ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GunSheets using Guid(9b830af20cc02ce40b456807851d9ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0ce8ae80c3ba52e56292f40bc0b8ae') in 0.007513 seconds
+  Import took 0.010005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.699193 seconds.
+  path: Assets/Sprites/LaserSheets
+  artifactKey: Guid(c54297335b6c1824281d1e08e5983d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/LaserSheets using Guid(c54297335b6c1824281d1e08e5983d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42498faaa5d142a0e93caa56b42c18c4') in 0.005378 seconds
+  Import took 0.007948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.718930 seconds.
+  path: Assets/Sprites/ImpactSheets
+  artifactKey: Guid(d57cd0323edc96044be72a13070f3706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets using Guid(d57cd0323edc96044be72a13070f3706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba9b231679b09b62d7892a0ef995d78') in 0.005154 seconds
+  Import took 0.007640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 453.756918 seconds.
+  path: Assets/Sprites/HeadExplodes.png
+  artifactKey: Guid(d3ff629370031db429bff10baadb9614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HeadExplodes.png using Guid(d3ff629370031db429bff10baadb9614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acfeef06f589a878f1e05628ce5099fe') in 0.113767 seconds
+  Import took 0.116634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Sprites/LaserImpactR.png
+  artifactKey: Guid(9e0c38fce7ed2494bb47d413ac2c685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/LaserImpactR.png using Guid(9e0c38fce7ed2494bb47d413ac2c685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58475b621777a22f4a85d3d7f047e40e') in 0.014724 seconds
+  Import took 0.017248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/LaserImpactG.png
+  artifactKey: Guid(d610b50a0c6a84349a712c86bc263305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/LaserImpactG.png using Guid(d610b50a0c6a84349a712c86bc263305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3539d9c38ba64f85150fdd06df80f817') in 0.019875 seconds
+  Import took 0.022306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/LaserImpactB.png
+  artifactKey: Guid(3d2b7017acdb61f4592b7d21f7bbfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/LaserImpactB.png using Guid(3d2b7017acdb61f4592b7d21f7bbfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e07d29b769a40b78e35719b2d9e722') in 0.013881 seconds
+  Import took 0.016682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Sprites/LaserImpactY.png
+  artifactKey: Guid(a64bf9bc79f0d0c4f8e156e5887c9e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/LaserImpactY.png using Guid(a64bf9bc79f0d0c4f8e156e5887c9e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c57c9325285702e179661d8c849c18a') in 0.014153 seconds
+  Import took 0.016735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.852367 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactB.png
+  artifactKey: Guid(3d2b7017acdb61f4592b7d21f7bbfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactB.png using Guid(3d2b7017acdb61f4592b7d21f7bbfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac1eb36bcfaf769c76a4dc71f71e088') in 0.007438 seconds
+  Import took 0.010039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactR.png
+  artifactKey: Guid(9e0c38fce7ed2494bb47d413ac2c685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactR.png using Guid(9e0c38fce7ed2494bb47d413ac2c685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7475b31487af333ad63c3ff521d5e62') in 0.012273 seconds
+  Import took 0.014554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactG.png
+  artifactKey: Guid(d610b50a0c6a84349a712c86bc263305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactG.png using Guid(d610b50a0c6a84349a712c86bc263305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e3d0a5b05d332a2abab614d3880079') in 0.011415 seconds
+  Import took 0.013778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactY.png
+  artifactKey: Guid(a64bf9bc79f0d0c4f8e156e5887c9e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactY.png using Guid(a64bf9bc79f0d0c4f8e156e5887c9e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2b224f4921819f2eaf8cc9e03b2519') in 0.006926 seconds
+  Import took 0.009563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1438.563769 seconds.
+  path: Assets/Sprites/Audio/LaserFireB.wav
+  artifactKey: Guid(5133b59635b25f3449ed37b9b8efff6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/LaserFireB.wav using Guid(5133b59635b25f3449ed37b9b8efff6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22dd026b16cbd9908a29d0e125fa86a') in 0.027835 seconds
+  Import took 0.030730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Sprites/Audio/PickUp.wav
+  artifactKey: Guid(8e77c38a808b388469e98429df0c195d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/PickUp.wav using Guid(8e77c38a808b388469e98429df0c195d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d651aaf3f0fd9102eff4da2864cf4e3') in 0.009771 seconds
+  Import took 0.012234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sprites/Audio/LaserFireY.wav
+  artifactKey: Guid(a0fa03402f6e6b7469780f23d32d9eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/LaserFireY.wav using Guid(a0fa03402f6e6b7469780f23d32d9eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9848b2ca46165cdc6b55b85711423a62') in 0.010233 seconds
+  Import took 0.013360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/Audio/SelectSound.wav
+  artifactKey: Guid(5ea7fa8c0a3ad2f4c9cca6e97d44c017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/SelectSound.wav using Guid(5ea7fa8c0a3ad2f4c9cca6e97d44c017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc3428048e8ae3d9fe34004b3ef422b') in 0.012751 seconds
+  Import took 0.015589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sprites/Audio/LaserFireR.wav
+  artifactKey: Guid(f751df7f32104f641b44312356d4de46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/LaserFireR.wav using Guid(f751df7f32104f641b44312356d4de46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b218e37411c378db29681b4706ab8064') in 0.013530 seconds
+  Import took 0.016691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/Audio/LaserFireG.wav
+  artifactKey: Guid(9550f13ac7e1b044c950989dee14e2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/LaserFireG.wav using Guid(9550f13ac7e1b044c950989dee14e2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbae2a8743755425ddfee1c681a0b641') in 0.014967 seconds
+  Import took 0.017581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.891841 seconds.
+  path: Assets/Sprites/Audio/LaserFireY
+  artifactKey: Guid(53adde736b010c6488d6996f5d072026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Audio/LaserFireY using Guid(53adde736b010c6488d6996f5d072026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0d932e8182252cde4d5d4a641466f4') in 0.002703 seconds
+  Import took 0.005216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.042909 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactB.png
+  artifactKey: Guid(3d2b7017acdb61f4592b7d21f7bbfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactB.png using Guid(3d2b7017acdb61f4592b7d21f7bbfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b48825c650d0602d5f17ee3aabd343f') in 0.020276 seconds
+  Import took 0.023438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.045728 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactG.png
+  artifactKey: Guid(d610b50a0c6a84349a712c86bc263305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactG.png using Guid(d610b50a0c6a84349a712c86bc263305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf201638ef9adc69e2273fe6a127cb1') in 0.028745 seconds
+  Import took 0.031356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.670513 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactR.png
+  artifactKey: Guid(9e0c38fce7ed2494bb47d413ac2c685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactR.png using Guid(9e0c38fce7ed2494bb47d413ac2c685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80fe86545797f6fa9b38edc84f4d6d2b') in 0.027163 seconds
+  Import took 0.029757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.754267 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactY.png
+  artifactKey: Guid(a64bf9bc79f0d0c4f8e156e5887c9e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactY.png using Guid(a64bf9bc79f0d0c4f8e156e5887c9e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c96a43b455303c82842e223abdd3bbf') in 0.025885 seconds
+  Import took 0.028549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.695502 seconds.
+  path: Assets/Sprites/ImpactSheets/LaserImpactY_0.controller
+  artifactKey: Guid(48213204d396b6a4095d02e40170914d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ImpactSheets/LaserImpactY_0.controller using Guid(48213204d396b6a4095d02e40170914d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861da31ceb76a1eba584918d29a61f5c') in 0.011313 seconds
+  Import took 0.013851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.328740 seconds.
+  path: Assets/Prefabs/Impacts
+  artifactKey: Guid(0b2d5489c0be2a64aa1349bc4b96589e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts using Guid(0b2d5489c0be2a64aa1349bc4b96589e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5551b2e2875828700cf123c505609f9f') in 0.005533 seconds
+  Import took 0.008072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.219396 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactB_0.prefab
+  artifactKey: Guid(84a8e6a6df4bab64b96732c7b7366852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactB_0.prefab using Guid(84a8e6a6df4bab64b96732c7b7366852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fb5559b237f0c225d29ffd4d63752d') in 0.024163 seconds
+  Import took 0.026878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005664 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactB_0.prefab
+  artifactKey: Guid(84a8e6a6df4bab64b96732c7b7366852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactB_0.prefab using Guid(84a8e6a6df4bab64b96732c7b7366852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fb5559b237f0c225d29ffd4d63752d') in 0.014592 seconds
+  Import took 0.017933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.704268 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactG_0.prefab
+  artifactKey: Guid(e81ae8a299ecfe543b71c26c5a78b414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactG_0.prefab using Guid(e81ae8a299ecfe543b71c26c5a78b414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53362dcf0230479614efda8f64ee1ac2') in 0.011952 seconds
+  Import took 0.014844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.372316 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactR_0.prefab
+  artifactKey: Guid(43dc20433c8c9e04785fe0aa0ebab7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactR_0.prefab using Guid(43dc20433c8c9e04785fe0aa0ebab7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be9467cf3381de5ed782a9d37ff60d9') in 0.012086 seconds
+  Import took 0.014850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.514272 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactY_0.prefab
+  artifactKey: Guid(f232ed5b1752c3e42bfc806c7442b2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactY_0.prefab using Guid(f232ed5b1752c3e42bfc806c7442b2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08336b20f1b1b1c765095bde40f8cd52') in 0.010077 seconds
+  Import took 0.012825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 275.954522 seconds.
+  path: Assets/Sprites/AmongUsBackRooms.png
+  artifactKey: Guid(d9bdc6d37a9c4384b8d08bb24ae751c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/AmongUsBackRooms.png using Guid(d9bdc6d37a9c4384b8d08bb24ae751c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebfc281e33f56c986d09ce08c17343d4') in 0.011468 seconds
+  Import took 0.014350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.944002 seconds.
+  path: Assets/Sprites/AmongUsBackRooms.png
+  artifactKey: Guid(d9bdc6d37a9c4384b8d08bb24ae751c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/AmongUsBackRooms.png using Guid(d9bdc6d37a9c4384b8d08bb24ae751c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec147f88d888e250e43fa8450a1985c1') in 0.011534 seconds
+  Import took 0.014170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.801204 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4c17a841b0eccade69a02e67d51137') in 0.010939 seconds
+  Import took 0.013672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.999867 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6ab8c75eee381a39f931f12dad8e761') in 0.002641 seconds
+  Import took 0.005765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.654578 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052d97673e6209ecc3344b7b0882ddb3') in 0.002265 seconds
+  Import took 0.005026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.768816 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b156b8b4cbefdc486c2bc0b60dfc9a') in 0.004159 seconds
+  Import took 0.009243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.145776 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942dcda4a5b0bf80bb3d534643cdddd0') in 0.002194 seconds
+  Import took 0.004657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.763958 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26764ce51903ce1f0a0599a42f6838f8') in 0.002227 seconds
+  Import took 0.004835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.826435 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3939cc39c4e0ee8dd5d0d7ddd0190b81') in 0.003815 seconds
+  Import took 0.007144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001335 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3939cc39c4e0ee8dd5d0d7ddd0190b81') in 0.002288 seconds
+  Import took 0.004581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.461223 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d3e9bc7047ab0a032d5f63541d7269') in 0.002707 seconds
+  Import took 0.005543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Scripts/Laser.cs
+  artifactKey: Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Laser.cs using Guid(2b869066566ed474d9c64067d8ec65ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d3e9bc7047ab0a032d5f63541d7269') in 0.002174 seconds
+  Import took 0.004818 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2291.
+Total: 1.838300 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.507700 ms  DeleteObjects: 0.101600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.219118 seconds.
+  path: Assets/Prefabs/LaserBallB_0.prefab
+  artifactKey: Guid(caa56050a68773b49b9e0d0b7d57ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserBallB_0.prefab using Guid(caa56050a68773b49b9e0d0b7d57ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b41fd48cc734dc20b0a99ab4608d72') in 0.053440 seconds
+  Import took 0.056263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Prefabs/LaserBlastG_0.prefab
+  artifactKey: Guid(eb76c8c22fffcc2429d3f66601262bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserBlastG_0.prefab using Guid(eb76c8c22fffcc2429d3f66601262bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc352ce2f1a8830756a1a4301e66962') in 0.011077 seconds
+  Import took 0.013464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Prefabs/LaserSpearY_0.prefab
+  artifactKey: Guid(19bb9286ec203ff418076153b458b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserSpearY_0.prefab using Guid(19bb9286ec203ff418076153b458b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5972e58066e5d1c81ba852cd9d65a182') in 0.016907 seconds
+  Import took 0.019665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Prefabs/LaserPulseR_0.prefab
+  artifactKey: Guid(fa36c16c747b6044f9115a4ba298e1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserPulseR_0.prefab using Guid(fa36c16c747b6044f9115a4ba298e1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ca563756ce96364f934e0bf2bca26c') in 0.017288 seconds
+  Import took 0.020219 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001027 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.727 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 1.724500 ms (FindLiveObjects: 0.174800 ms CreateObjectMapping: 0.046600 ms MarkObjects: 1.408600 ms  DeleteObjects: 0.093500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.119636 seconds.
+  path: Assets/Prefabs/LaserBallB_0.prefab
+  artifactKey: Guid(caa56050a68773b49b9e0d0b7d57ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserBallB_0.prefab using Guid(caa56050a68773b49b9e0d0b7d57ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4097f27958244b337db67e37dfa5ced') in 0.043241 seconds
+  Import took 0.053332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.864854 seconds.
+  path: Assets/Prefabs/LaserBlastG_0.prefab
+  artifactKey: Guid(eb76c8c22fffcc2429d3f66601262bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserBlastG_0.prefab using Guid(eb76c8c22fffcc2429d3f66601262bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da0384423be3ff23b577ae2ebade7d4') in 0.009345 seconds
+  Import took 0.012130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.489584 seconds.
+  path: Assets/Prefabs/LaserPulseR_0.prefab
+  artifactKey: Guid(fa36c16c747b6044f9115a4ba298e1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserPulseR_0.prefab using Guid(fa36c16c747b6044f9115a4ba298e1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750f32389515d60986ab2effc114ca84') in 0.017617 seconds
+  Import took 0.020538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.841250 seconds.
+  path: Assets/Prefabs/LaserSpearY_0.prefab
+  artifactKey: Guid(19bb9286ec203ff418076153b458b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserSpearY_0.prefab using Guid(19bb9286ec203ff418076153b458b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1e35aaf5e8fc668af0d966e04bdd8e') in 0.008886 seconds
+  Import took 0.011652 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000960 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 1.809000 ms (FindLiveObjects: 0.185500 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.476300 ms  DeleteObjects: 0.098200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.687803 seconds.
+  path: Assets/Scripts/LaserImpacts.cs
+  artifactKey: Guid(a3b3b82bd540eb74bbe2f97d078064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LaserImpacts.cs using Guid(a3b3b82bd540eb74bbe2f97d078064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ee2da42307d740cd0d981f520e354c') in 0.007644 seconds
+  Import took 0.010995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002164 seconds.
+  path: Assets/Scripts/LaserImpacts.cs
+  artifactKey: Guid(a3b3b82bd540eb74bbe2f97d078064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LaserImpacts.cs using Guid(a3b3b82bd540eb74bbe2f97d078064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ee2da42307d740cd0d981f520e354c') in 0.002782 seconds
+  Import took 0.005384 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 1.686800 ms (FindLiveObjects: 0.195000 ms CreateObjectMapping: 0.046800 ms MarkObjects: 1.347400 ms  DeleteObjects: 0.096700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 1.709400 ms (FindLiveObjects: 0.184700 ms CreateObjectMapping: 0.042100 ms MarkObjects: 1.386100 ms  DeleteObjects: 0.095700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.085885 seconds.
+  path: Assets/Scripts/LaserImpacts.cs
+  artifactKey: Guid(a3b3b82bd540eb74bbe2f97d078064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LaserImpacts.cs using Guid(a3b3b82bd540eb74bbe2f97d078064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8895df96a5af9bd2a8eb45f714404334') in 0.004482 seconds
+  Import took 0.014069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.514577 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactB_0.prefab
+  artifactKey: Guid(84a8e6a6df4bab64b96732c7b7366852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactB_0.prefab using Guid(84a8e6a6df4bab64b96732c7b7366852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba8642380da1f0cf5e34f1044b25125') in 0.052721 seconds
+  Import took 0.055504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.912272 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactG_0.prefab
+  artifactKey: Guid(e81ae8a299ecfe543b71c26c5a78b414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactG_0.prefab using Guid(e81ae8a299ecfe543b71c26c5a78b414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25892707758c6d9188d1f37e1e669d1f') in 0.013171 seconds
+  Import took 0.016057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.882075 seconds.
+  path: Assets/Prefabs/Impacts/LaserImpactR_0.prefab
+  artifactKey: Guid(43dc20433c8c9e04785fe0aa0ebab7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacts/LaserImpactR_0.prefab using Guid(43dc20433c8c9e04785fe0aa0ebab7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df933df774e30d0db61e6047ec44d43') in 0.013457 seconds
+  Import took 0.023836 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001048 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 1.679900 ms (FindLiveObjects: 0.188900 ms CreateObjectMapping: 0.043600 ms MarkObjects: 1.360900 ms  DeleteObjects: 0.085300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001009 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 1.750600 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.428000 ms  DeleteObjects: 0.089300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001115 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 1.675200 ms (FindLiveObjects: 0.173100 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.360900 ms  DeleteObjects: 0.093400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 1.842100 ms (FindLiveObjects: 0.180100 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.517500 ms  DeleteObjects: 0.097000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 1.664900 ms (FindLiveObjects: 0.172500 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.362100 ms  DeleteObjects: 0.088000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 1.741100 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.046600 ms MarkObjects: 1.414200 ms  DeleteObjects: 0.093300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 1.699300 ms (FindLiveObjects: 0.180800 ms CreateObjectMapping: 0.039800 ms MarkObjects: 1.380900 ms  DeleteObjects: 0.096900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000976 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 2.041600 ms (FindLiveObjects: 0.219400 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.680200 ms  DeleteObjects: 0.102700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 1.753900 ms (FindLiveObjects: 0.173600 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.437400 ms  DeleteObjects: 0.093100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 1.782100 ms (FindLiveObjects: 0.183600 ms CreateObjectMapping: 0.042200 ms MarkObjects: 1.465100 ms  DeleteObjects: 0.090600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001100 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2355.
+Total: 1.740900 ms (FindLiveObjects: 0.201700 ms CreateObjectMapping: 0.041700 ms MarkObjects: 1.400600 ms  DeleteObjects: 0.096200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 1.810200 ms (FindLiveObjects: 0.195600 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.470100 ms  DeleteObjects: 0.096900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
